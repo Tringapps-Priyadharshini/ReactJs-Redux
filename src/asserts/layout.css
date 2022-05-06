@@ -1,0 +1,23 @@
+.sideBarMenu{
+    width:10%;
+}
+.contentsMenu{
+    max-width: max-content;
+}
+.footerMenu{
+    height: 80px;
+}
+.splitSideBarAndContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.headingMenu{
+    background-color: red;
+    height:80px;
+    color:white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
